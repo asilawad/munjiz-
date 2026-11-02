@@ -1,0 +1,10 @@
+# Native splash only. Generate with: dart run flutter_native_splash:create
+# The logos are padded onto a white canvas so Android 12's circular mask
+# no longer crops them. To make the logo smaller/larger, re-export the PNGs
+# with more/less white margin (see tool/make_splash.ps1).
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/images/splash_logo.png
+  android_12:
+    color: "#FFFFFF"
+    image: assets/images/splash_logo_android12.png
