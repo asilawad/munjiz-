@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759218176635",
+    "project_id": "munjiz-bf8d3",
+    "storage_bucket": "munjiz-bf8d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759218176635:android:52dfa3dce12097870fd8de",
+        "android_client_info": {
+          "package_name": "com.ajyal.munjiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQHAQnr_Kzbrz7QCLDDaTfdKbf94Pj80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
